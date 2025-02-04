@@ -9,4 +9,4 @@ elif option=='Startup':
     st.sidebar.selectbox('Select Startup',['Byjus','ola','Flipkart'])
 else:
     st.sidebar.selectbox('Select investor',['admi 1','admi 2','admi 3'])
-    
+    print('helo')
